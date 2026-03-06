@@ -24,9 +24,9 @@ A simple console-based task manager where the user can:
 
 ## Example Flow
 ```
-Add Task
-View Tasks
-Exit
+1. Add Task
+2. View Tasks
+3. Exit
 Choose option: 1
 Enter task: Study C++
 1. Add Task
